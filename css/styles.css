@@ -1,7 +1,23 @@
 img {
     border-radius: 10%;
   }
-  table#tibco{
+table#tibco{
    text-emphasis: none;
    text-align: justify;
   }
+  div{
+    text-align: justify;
+    margin: 11px;
+  }
+  p#sign2{
+    text-emphasis: none;
+    text-align: justify;
+    text-align: right;
+    margin-right: 150px;
+   }
+   p#sign{
+    text-emphasis: none;
+    text-align: justify;
+    text-align: right;
+    margin-right: 189px;
+   }
